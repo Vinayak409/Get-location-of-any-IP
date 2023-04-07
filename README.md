@@ -2,6 +2,6 @@
 ### Pass ip as argument with filename to execute properly this file 
 > For example : 
 ```
-sh get_location.sh 8.8.8.8
+./get_location.sh 8.8.8.8
 
 ```
